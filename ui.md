@@ -29,26 +29,26 @@
 
 # Фронтенд часть
 * Файловая структура 
-cat_photo_app/
-|-- public/
-|   |-- index.html
-|   |-- images/
-|        |-- photo.jpg
-|-- src/
-|   |-- components/
-|       |-- Dashboard.js
-|       |-- Gallery.js
-|       |-- PhotoForm.js
-|       |-- AlbumManager.js
-|   |-- App.js
-|   |-- index.js
-|   |-- styles/
-|       |-- _variables.scss
-|       |-- main.scss
-|       |-- App.scss
-|-- .gitignore
-|-- package.json
-|-- README.md
+cat_photo_app/<br>
+|-- public/<br>
+|   |-- index.html<br>
+|   |-- images/<br>
+|        |-- photo.jpg<br>
+|-- src/<br>
+|   |-- components/<br>
+|       |-- Dashboard.js<br>
+|       |-- Gallery.js<br>
+|       |-- PhotoForm.js<br>
+|       |-- AlbumManager.js<br>
+|   |-- App.js<br>
+|   |-- index.js<br>
+|   |-- styles/<br>
+|       |-- _variables.scss<br>
+|       |-- main.scss<br>
+|       |-- App.scss<br>
+|-- .gitignore<br>
+|-- package.json<br>
+|-- README.md<br>
 **Основные компоненты:**
 * App.js: Основной компонент приложения, содержащий маршрутизацию.
 * Dashboard.js: Компонент для отображения обзора и последних добавленных фотографий.
